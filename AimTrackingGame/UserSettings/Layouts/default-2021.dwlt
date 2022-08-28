@@ -14,16 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 42.666668
     width: 1706.6667
     height: 917.3334
+=======
+    x: 767
+    y: 218
+    width: 1707
+    height: 917
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 492}
   m_MaxSize: {x: 10000, y: 10000}
-  m_Maximized: 1
+  m_Maximized: 0
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -40,9 +47,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 578.6667
     width: 395.99994
     height: 288.66663
+=======
+    y: 578
+    width: 396
+    height: 289
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_MinSize: {x: 232, y: 271}
   m_MaxSize: {x: 10002, y: 10021}
   m_ActualView: {fileID: 15}
@@ -67,6 +80,7 @@ MonoBehaviour:
   - {fileID: 2}
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 806.6667
     y: 0
     width: 395.99994
@@ -75,6 +89,16 @@ MonoBehaviour:
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
   controlID: 270
+=======
+    x: 807
+    y: 0
+    width: 396
+    height: 867
+  m_MinSize: {x: 100, y: 200}
+  m_MaxSize: {x: 8096, y: 16192}
+  vertical: 1
+  controlID: 213
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,9 +119,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1706.6666
     height: 917.3333
   m_MinSize: {x: 875, y: 300}
+=======
+    width: 1707
+    height: 917
+  m_MinSize: {x: 875, y: 492}
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -120,7 +150,11 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 1706.6666
+=======
+    width: 1707
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -145,12 +179,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
     width: 1706.6666
     height: 867.3333
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
   controlID: 183
+=======
+    width: 1707
+    height: 867
+  m_MinSize: {x: 300, y: 200}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 211
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -167,8 +210,13 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 897.3333
     width: 1706.6666
+=======
+    y: 897
+    width: 1707
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -191,12 +239,21 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 806.6667
     height: 867.3333
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
   controlID: 209
+=======
+    width: 807
+    height: 867
+  m_MinSize: {x: 100, y: 200}
+  m_MaxSize: {x: 8096, y: 16192}
+  vertical: 1
+  controlID: 198
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -214,8 +271,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 395.99994
     height: 578.6667
+=======
+    width: 396
+    height: 578
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 13}
@@ -238,10 +300,17 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1202.6666
     y: 0
     width: 504
     height: 867.3333
+=======
+    x: 1203
+    y: 0
+    width: 504
+    height: 867
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -266,8 +335,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
     width: 806.6667
     height: 444.66666
+=======
+    width: 807
+    height: 445
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
@@ -291,9 +365,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 444.66666
     width: 806.6667
     height: 422.66666
+=======
+    y: 445
+    width: 807
+    height: 422
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
@@ -321,10 +401,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 806.6667
     y: 72.66667
     width: 393.99994
     height: 557.6667
+=======
+    x: 1574
+    y: 248
+    width: 394
+    height: 557
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -378,10 +465,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1202.6667
     y: 72.66667
     width: 503
     height: 846.3333
+=======
+    x: 1970
+    y: 248
+    width: 503
+    height: 846
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -419,10 +513,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 806.6667
     y: 651.3334
     width: 393.99994
     height: 267.66663
+=======
+    x: 1574
+    y: 826
+    width: 394
+    height: 268
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -440,22 +541,34 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
+<<<<<<< HEAD
   - Assets/Scripts
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Study\AimTrackingGame\AimTrackingGame
+=======
+  - Assets
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: "C:\\Users\\\uC724\uBBF8\uC601\\Documents\\GitHub\\AimTrackingGame\\AimTrackingGame"
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 5a5a0000
     m_LastClickedID: 23130
     m_ExpandedIDs: 00000000505a000000ca9a3b
+=======
+    m_SelectedIDs: fe6d0000
+    m_LastClickedID: 28158
+    m_ExpandedIDs: 00000000fe6d0000
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -483,7 +596,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000000ca9a3b
+=======
+    m_ExpandedIDs: 00000000fe6d0000
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -510,7 +627,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -559,10 +676,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 517.3334
     width: 805.6667
     height: 401.66666
+=======
+    x: 767
+    y: 693
+    width: 806
+    height: 401
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -573,7 +697,11 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
+<<<<<<< HEAD
   m_TargetSize: {x: 1208.5, y: 571}
+=======
+  m_TargetSize: {x: 806, y: 380}
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -588,10 +716,17 @@ MonoBehaviour:
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
+<<<<<<< HEAD
     m_HBaseRangeMin: -402.83334
     m_HBaseRangeMax: 402.83334
     m_VBaseRangeMin: -190.33334
     m_VBaseRangeMax: 190.33334
+=======
+    m_HBaseRangeMin: -403
+    m_HBaseRangeMax: 403
+    m_VBaseRangeMin: -190
+    m_VBaseRangeMax: 190
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -609,16 +744,24 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
+<<<<<<< HEAD
       width: 805.6667
       height: 380.66666
     m_Scale: {x: 0.99999994, y: 0.99999994}
     m_Translation: {x: 402.83334, y: 190.33333}
+=======
+      width: 806
+      height: 380
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 403, y: 190}
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
       x: -402.83337
       y: -190.33334
       width: 805.66675
@@ -626,6 +769,15 @@ MonoBehaviour:
     m_MinimalGUI: 1
   m_defaultScale: 0.99999994
   m_LastWindowPixelSize: {x: 1208.5, y: 602.5}
+=======
+      x: -403
+      y: -190
+      width: 806
+      height: 380
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 806, y: 401}
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000000000000
@@ -651,10 +803,17 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
     y: 72.66667
     width: 805.6667
     height: 423.66666
+=======
+    x: 767
+    y: 248
+    width: 806
+    height: 424
+>>>>>>> parent of 59cb8904 (CreatePlayer&MoveMent)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
