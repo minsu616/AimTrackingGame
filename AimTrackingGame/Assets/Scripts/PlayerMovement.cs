@@ -5,15 +5,13 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public float speed = 10.0f;
-    public float jumpPower = 2.0f;
-
-    public float jumpCount;
-    bool isGround = false;
-
     // Player speed
+    public float jumpPower = 2.0f;
+    // Player jump value
+
     void Start()
     {
-        jumpCount = 0;
+        
     }
     void Update()
     {
@@ -51,5 +49,6 @@ public class PlayerMovement : MonoBehaviour
             transform.position = transform.position + new Vector3(0, jumpPower, 0) * Time.deltaTime;
             // Jump
         }
+        
     }
 }
